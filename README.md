@@ -5,3 +5,4 @@ Exercícios e anotações sobre os padrões de projeto do tipo *criacionais*:
 - Abstract Factory
 - Builder
 - Prototype
+- Singleton

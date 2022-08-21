@@ -27,7 +27,7 @@ class NotaFiscal
     }
 
     // esse método não é necessário, haja vista que o PHP possui uma funcionalidade específica
-    // que já faz isso: a palavra reservada `clone` (ves uso em `testPrototype.php`)
+    // que já faz isso: a palavra reservada `clone` (ver uso em `testPrototype.php`)
     public function clonar(): NotaFiscal
     {
         $cloneNotaFiscal = new NotaFiscal();
