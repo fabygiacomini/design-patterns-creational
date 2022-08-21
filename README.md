@@ -4,3 +4,4 @@ Exercícios e anotações sobre os padrões de projeto do tipo *criacionais*:
 - Factory Method
 - Abstract Factory
 - Builder
+- Prototype
